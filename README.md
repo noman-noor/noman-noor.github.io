@@ -74,15 +74,15 @@ Android SDK, NDK, openVPN, Firebase, Strongswan, Firebase Remote config
 
 
 
-  <img alt="Qol360" src="https://play-lh.googleusercontent.com/PtZsorF9JKUhEk-pYejwV2_Je2HH5wANVvJLFKdywM_HPBTxeTz6eIcMS58KwwW89j0=w5120-h2880-rw" width="300" height="500">
+  <img alt="Qol360" src="https://play-lh.googleusercontent.com/PtZsorF9JKUhEk-pYejwV2_Je2HH5wANVvJLFKdywM_HPBTxeTz6eIcMS58KwwW89j0=w5120-h2880-rw" width="200" height="400">
 
 
-<img alt="Qol360" src="https://play-lh.googleusercontent.com/esJMm61cBJDsztvvSdT2cmR2ZXPeUlOW2w0y0gNPHkeosVQSL59qSqSUk8cp_-uQCrI=w1052-h592-rw" width="300" height="500">
+<img alt="Qol360" src="https://play-lh.googleusercontent.com/esJMm61cBJDsztvvSdT2cmR2ZXPeUlOW2w0y0gNPHkeosVQSL59qSqSUk8cp_-uQCrI=w1052-h592-rw" width="200" height="400">
 
 
-<img alt="Qol360" src="https://play-lh.googleusercontent.com/owUQTFksegB5qkLrNuNFXUKr5EJgTayHTJTdEiW29ztJLBxJGMwH-7yK8rHqW4Nvlig=w1052-h592-rw" width="300" height="500">
+<img alt="Qol360" src="https://play-lh.googleusercontent.com/owUQTFksegB5qkLrNuNFXUKr5EJgTayHTJTdEiW29ztJLBxJGMwH-7yK8rHqW4Nvlig=w1052-h592-rw" width="200" height="400">
 
-<img alt="Qol360" src="https://play-lh.googleusercontent.com/l47yj1P2qsDzapL62wLGbXb7e_NzL95_KzcC90ssaSa9YVN6QiBryGZzxgsHtkfmh28=w1052-h592-rw" width="300" height="500">
+<img alt="Qol360" src="https://play-lh.googleusercontent.com/l47yj1P2qsDzapL62wLGbXb7e_NzL95_KzcC90ssaSa9YVN6QiBryGZzxgsHtkfmh28=w1052-h592-rw" width="200" height="400">
 
 </picture>
 </p>
@@ -102,15 +102,15 @@ Hafiz360 is an Islamic quiz game that helps users memorize Quranic Ayat. Users l
 <p align="center">
 <picture>
 
-  <img alt="Qol360" src="https://play-lh.googleusercontent.com/yzkDP43XqdiujLQ50K30KVLCdO0z2WODB1IaizeJjSuWrNZEoQXMvGAboKmxOX2ACg=w5120-h2880-rw" width="300" height="500">
+  <img alt="Qol360" src="https://play-lh.googleusercontent.com/yzkDP43XqdiujLQ50K30KVLCdO0z2WODB1IaizeJjSuWrNZEoQXMvGAboKmxOX2ACg=w5120-h2880-rw" width="200" height="400">
 
 
-<img alt="Qol360" src="https://play-lh.googleusercontent.com/Hu7gEeVrtyfPj16_osnZHreH9Q-VEvbwhVeV5NmBASH3-qqun8zSHpw_99gC5EsmbxPF=w5120-h2880-rw" width="300" height="500">
+<img alt="Qol360" src="https://play-lh.googleusercontent.com/Hu7gEeVrtyfPj16_osnZHreH9Q-VEvbwhVeV5NmBASH3-qqun8zSHpw_99gC5EsmbxPF=w5120-h2880-rw" width="200" height="400">
 
 
-<img alt="Qol360" src="https://play-lh.googleusercontent.com/tkGZ1MrYlePC6ZeFIKfcB-bmr9XwirPwIG-3ZnGXEVcletIfSlstb2vmd7TQ1SZ1lDs=w5120-h2880-rw" width="300" height="500">
+<img alt="Qol360" src="https://play-lh.googleusercontent.com/tkGZ1MrYlePC6ZeFIKfcB-bmr9XwirPwIG-3ZnGXEVcletIfSlstb2vmd7TQ1SZ1lDs=w5120-h2880-rw" width="200" height="400">
 
-<img alt="Qol360" src="https://play-lh.googleusercontent.com/PMBojo4APVT2hRGRTr80l2cdkQb9ezZOAbPb_XTTL9941nbzlQDoG0oAwdpDB5m6pHKG=w5120-h2880-rw" width="300" height="500">
+<img alt="Qol360" src="https://play-lh.googleusercontent.com/PMBojo4APVT2hRGRTr80l2cdkQb9ezZOAbPb_XTTL9941nbzlQDoG0oAwdpDB5m6pHKG=w5120-h2880-rw" width="200" height="400">
 
 
 
