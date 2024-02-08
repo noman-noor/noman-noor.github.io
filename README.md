@@ -8,15 +8,10 @@ With over 11 years of experience in Android development, I have a strong backgro
 As the proud developer of Islam360, a project I have passionately nurtured since 2014, I am excited to showcase a groundbreaking platform that provides comprehensive access to Islamic resources. Islam360 offers users an immersive experience, seamlessly integrating Quranic studies, Hadith collections, and scholarly literature. With its user-friendly interface and advanced search functionalities, Islam360 empowers individuals to delve deep into their faith with ease. As a developer, I am committed to continually enhancing Islam360's features, ensuring it remains a vital tool for Muslims worldwide seeking knowledge and guidance.
 
 ### Technolgies : 
-Android SDK, Kotlin, Java ,XML, Firebase, RxJava, Android Jetpack Libraries, Firebase, Cloud Functions, AWS ec2, Firebase Remote config, Firestore, Firebase Auth
+Android SDK, Kotlin, Java,XML, Firebase, RxJava, Android Jetpack Libraries, Firebase, Cloud Functions, AWS EC2, Firebase Remote config, Firestore, Firebase Auth
 
 <p align="center">
-<img src="images/islam360/image_fixed_width.png" width="190" >
-<img src="images/islam360/2.png" width="190" >
-<img src="images/islam360/3.png" width="190" >
-<img src="images/islam360/4.png" width="190" >
-<img src="images/islam360/5.png" width="190" >
-<img src="images/islam360/6.png" width="190" >
+<img src="images/islam360/screenshorts.png" >
 
 </p>
 
